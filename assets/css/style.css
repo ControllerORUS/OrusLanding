@@ -537,7 +537,8 @@ section {
 }
 
 .section-bg {
-  background-color: #f3f5fa;
+  background-color: #003060;
+
 }
 
 .section-title {
@@ -1611,7 +1612,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #f3f5fa;
+  background: #f3f5fa10;
   min-height: 40px;
   margin-top: 72px;
 }
@@ -1658,7 +1659,7 @@ section {
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: #f3f5fa;
+  background: #f3f5fa20;
   text-align: center;
   font-size: 15px;
   color: #444444;
