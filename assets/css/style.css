@@ -3590,7 +3590,8 @@ figcaption {
   overflow: hidden;
 }
 .navbar2_logo {
-  min-width: 3rem;
+  min-width: 5rem;
+  max-width: 70%;
 }
 .navbar2_logo-link {
   padding-left: 0;
